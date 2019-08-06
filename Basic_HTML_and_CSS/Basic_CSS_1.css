@@ -1,0 +1,28 @@
+
+p {
+Color: #20b2aa;
+text-align: right;
+}
+.font_1 {
+	background-color: black;
+	color: yellow;
+	font-size;large;
+}
+.font_2{
+	background-color: blue;
+	color: green;
+	font-size: 30px;
+}
+.new_style_p{
+	color:purple;
+	font-size:15px;
+	font-weight:bold;
+	text-shadow:20,30,50,;
+}
+body{ 
+font-style: italic;
+text-align: center;
+}
+.class_A {
+	COLOR:blue;
+}

@@ -1,0 +1,23 @@
+table{
+border: 3px grey;
+
+}
+
+td:hover{
+background-color:red;
+color: black;
+
+}
+tr,th{
+background-color:black;
+color: silver;
+
+
+}
+
+tr,td{
+background-color: magenta;
+color: yellow;
+
+
+}
