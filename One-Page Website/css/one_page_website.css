@@ -1,0 +1,22 @@
+nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+
+input{
+    width:200px;
+    margin-top:4px;
+    margin-bottom:7px;
+    color: darkgrey;
+    border-color:#000 2px;
+    border-radius: 3px;
+}
